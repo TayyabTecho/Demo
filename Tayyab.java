@@ -1,14 +1,13 @@
 class Tayyab{
-public Initial(){
+
 public int age;
 public String Name;
 public String Addresss;
 public int Hight;
-System.out.println(Name);
-}
-public Tayyab(String user-name, int user-age){
-Name=user-name;
-age=user-age;
+
+public Tayyab(String user_name, int user_age){
+Name=user_name;
+age=user_age;
 }
  public static void main(String[] args){
 Tayyab tayyab=new Tayyab("tayyab",20);
